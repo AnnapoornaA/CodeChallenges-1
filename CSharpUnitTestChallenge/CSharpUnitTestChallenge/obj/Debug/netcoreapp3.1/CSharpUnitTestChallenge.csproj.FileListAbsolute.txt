@@ -1,0 +1,16 @@
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\bin\Debug\netcoreapp3.1\CSharpUnitTestChallenge.exe
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\bin\Debug\netcoreapp3.1\CSharpUnitTestChallenge.deps.json
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\bin\Debug\netcoreapp3.1\CSharpUnitTestChallenge.runtimeconfig.json
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\bin\Debug\netcoreapp3.1\CSharpUnitTestChallenge.runtimeconfig.dev.json
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\bin\Debug\netcoreapp3.1\CSharpUnitTestChallenge.dll
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\bin\Debug\netcoreapp3.1\CSharpUnitTestChallenge.pdb
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\bin\Debug\netcoreapp3.1\CSharpUnitTestChallenge.Library.dll
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\bin\Debug\netcoreapp3.1\CSharpUnitTestChallenge.Library.pdb
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\obj\Debug\netcoreapp3.1\CSharpUnitTestChallenge.csprojAssemblyReference.cache
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\obj\Debug\netcoreapp3.1\CSharpUnitTestChallenge.AssemblyInfoInputs.cache
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\obj\Debug\netcoreapp3.1\CSharpUnitTestChallenge.AssemblyInfo.cs
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\obj\Debug\netcoreapp3.1\CSharpUnitTestChallenge.csproj.CoreCompileInputs.cache
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\obj\Debug\netcoreapp3.1\CSharpUnitTestChallenge.csproj.CopyComplete
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\obj\Debug\netcoreapp3.1\CSharpUnitTestChallenge.dll
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\obj\Debug\netcoreapp3.1\CSharpUnitTestChallenge.pdb
+D:\Development\Repos\Gmaven\CSharpUnitTestChallenge\CSharpUnitTestChallenge\obj\Debug\netcoreapp3.1\CSharpUnitTestChallenge.genruntimeconfig.cache
